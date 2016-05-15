@@ -11,7 +11,7 @@ function start(response, postData) {
         '</head>' +
         '<body>' +
         '<form action="/upload" method="post">' +
-        '<textare name="text" rows="20" cols="60"></textare>' +
+        '<textarea name="text" rows="20" cols="60"></textarea>' +
         '<input type="submit" value="Submit text" />' +
         '</form>' +
         '</body>' +
